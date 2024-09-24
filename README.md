@@ -1,15 +1,44 @@
-# What is this?
+# xxstkfygl
 
-The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
+> 本书分为9章。第1章主要介绍了管理信息系统的基本概念、分类、结构和典型应用;第2章从管理、信息、系统、技术四个方面介绍了管理信息系统的基础知识:第3章从总体上概述了管理信息系统的开发方法;第4~7章按结构化生命周期法，讲解了管理信息系统开发各阶段的工作目的、步骤和方法;第8章重点介绍了信息系统运行过程中的管理问题包括运行组织、运行维护和评价等内容;第9章通过两个小的实例，重点对系统分析和系统设计方法进行了综合介绍。
 
-There are two ways to go directly to a VS Code environment in your browser and start coding:
+# 第1章 管理信息导论
 
-* Press the . key on any repository or pull request.
-* Swap `.com` with `.dev` in the URL. For example, this repo https://github.com/github/dev becomes http://github.dev/github/dev
+> 考核知识点和考核要求
+>
+> 1. 识记
+>    (1)管理信息系统的分类
+>    ①按核心业务活动可以分为电子业务系统、电子政务系统和电子商务系统三类。
+>    ②按数据处理方式分为操作型和分析型两类。
+>    ③按管理应用层次分为事务型、管理型和战略型三类。
+>    (2)管理信息系统的结构
+>    主要包括功能结构、概念结构、管理职能结构、软硬件结构和网络计算结构等
+>    (3)管理信息系统的几种典型应用形式
+>    主要包括物料需求计划系统MRP、制造资源计划系统MRP Ⅱ和企业资源计划系统ERP系统等。
+> 2. 领会
+>    ①管理信息系统的基本定义、一体化系统、人机系统。
+>    ②管理信息系统各种分类的含义:电子业务系统、电子政务系统、电子商务系统、操作型管理信息系统、分析型管理信息系统、事务型管理信息系统、管理型管理信息系统、战略型管理信息系统等。
+>    ③MRP、MRPⅡ和ERP的基本原理
 
-Preview the gif below to get a quick demo of github.dev in action.
+> 1. 掌握管理信息系统的分类。
+> 2. 掌握管理信息系统的概念结构。
+> 3. 掌握管理信息系统的管理职能结构。
+> 4. 理解管理信息系统的含义。
+> 5. 理解管理信息系统在企业中的典型应用。
 
-![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
+## 1.1 管理信息系统的概念及其发展（略）	
 
-# Why?
-It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+## 1.2 管理信息系统分类
+
+主要从**核心业务**、**数据处理方式**、**管理应用层次**、**行业和业务职能**4个角度进行分类
+
+### 1.2.1 按核心业务活动分类
+
+1. 电子业务系统
+
+   
+
+2. 电子政务系统
+
+3. 电子商务系统
+
